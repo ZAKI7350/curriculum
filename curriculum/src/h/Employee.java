@@ -1,8 +1,8 @@
 package h;
 public abstract class Employee {
 
-    protected String employeeId;
-    protected String name; 
+   private  String employeeId;
+   private  String name; 
 
    
     public Employee(String id, String name) {

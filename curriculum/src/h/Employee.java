@@ -2,7 +2,7 @@ package h;
 public abstract class Employee {
 
     protected String employeeId;
-    protected String name;
+    protected String name; 
 
    
     public Employee(String id, String name) {

@@ -1,0 +1,47 @@
+=== バトル開始 ===
+sa HP:96 AT:13 SP:8
+Daemon HP:85 AT:12 SP:6
+
+先攻: sa
+
+sa の攻撃！
+Daemon のHP: 72
+
+Daemon の攻撃！
+sa のHP: 84
+
+sa の攻撃！
+Daemon のHP: 59
+
+Daemon の攻撃！
+sa のHP: 72
+
+sa の攻撃！
+Daemon のHP: 46
+
+Daemon の攻撃！
+sa のHP: 60
+
+sa の攻撃！
+Daemon のHP: 33
+
+Daemon の攻撃！
+sa のHP: 48
+
+sa の攻撃！
+Daemon のHP: 20
+
+Daemon の攻撃！
+sa のHP: 36
+
+sa の攻撃！
+Daemon のHP: 7
+
+Daemon の攻撃！
+sa のHP: 24
+
+sa の攻撃！
+Daemon のHP: -6
+
+勝者: sa
+=== バトル終了 ===

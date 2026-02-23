@@ -22,7 +22,7 @@ public class Main {
         // for-eachループ
         for (Employee emp : employees) {
             int wage = emp.calculateDailyWage(hours);
-            System.out.println(emp.name + " の給与: " + wage + "円");
+            System.out.println(emp.getName() + " の給与: " + wage + "円");
         }
     }
 }

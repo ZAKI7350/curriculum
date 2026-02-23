@@ -22,7 +22,7 @@ public class Main {
             writer.write(player.getStatus() + "\n");
             writer.write(daemon.getStatus() + "\n\n");
 
-            // ✅ 先攻決定（getter使用）
+            
             Character first;
             Character second;
 
@@ -44,7 +44,7 @@ public class Main {
 
             writer.write("先攻: " + first.getName() + "\n\n");
 
-            // ✅ ターン制バトル
+            
             while (player.isAlive() && daemon.isAlive()) {
 
                 first.attack(second);
@@ -58,7 +58,7 @@ public class Main {
                 writer.write(first.getName() + " のHP: " + first.getHp() + "\n\n");
             }
 
-            // ✅ 結果
+            
             if (player.isAlive()) {
                 writer.write("勝者: " + player.getName() + "\n");
             } else {
